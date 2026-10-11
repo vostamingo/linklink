@@ -31,4 +31,5 @@ export const links: LinkItem[] = [
   { id: "58coffee", emoji: "🍪", title: "58mm", url: "https://smartstore.naver.com/58coffee" },
   { id: "monoscope", emoji: "🥺", title: "모노스코프", url: "https://smartstore.naver.com/monoscope" },
   { id: "realbean", emoji: "🫘", title: "리얼빈", url: "https://smartstore.naver.com/realbean" },
+  { id: "1procoffee", emoji: "🧔", title: "일프로", url: "https://brand.naver.com/1procoffee" },
 ];
