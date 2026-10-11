@@ -1,0 +1,11 @@
+@import "tailwindcss";
+
+@theme inline {
+  --font-sans: "Pretendard Variable", Pretendard, system-ui, sans-serif;
+}
+
+body {
+  background: linear-gradient(180deg, #f8fafc 0%, #e0f2fe 100%);
+  color: #1e293b;
+  font-family: var(--font-sans);
+}
